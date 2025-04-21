@@ -12,16 +12,33 @@ Explorar os dados da planilha e realizar um agrupamento por estado e região, ob
 - Agrupamento por estado usando Tabela Dinâmica
 - Agrupamento por região usando Tabela Dinâmica
 - Criado gráfico de pizza para visualizar a distribuição média de renda e educação tanto por estado quanto por regiões
-- Foram respondidas as perguntas:
- Respondam as perguntas: 
-- Que tipo de informação conseguiram tirar com esse agrupamento? 
-    Média de renda por estado ou região, média de educação por estado ou região, correlação entre renda e educação, diferenças regionais, entre outras.
-- Qual é a região com os melhores índices de educação? 
-    A região com os melhores índices de educação é a região sul
-- A região com os melhores índices de educação, é a mesma que tem os melhores de renda? E o estado? 
-    Sim, a região sul é a região com os melhores índices de educação e de renda
-- O melhor estado está dentro da melhor Região também?
-    Não, o melhor estado é o DF tanto em renda quanto em educação e ele pertence a região centro oeste
+## ❓ Perguntas e Respostas da Análise
+
+### 🔹 Que tipo de informação conseguimos tirar com esse agrupamento?
+Através desse agrupamento foi possível observar:
+- A **média de renda por estado e por região**
+- A **média de educação por estado e por região**
+- A possível **correlação entre renda e educação**
+- **Diferenças regionais significativas**
+- Entre outros padrões e insights a partir da segmentação dos dados
+
+---
+
+### 🔹 Qual é a região com os melhores índices de educação?
+A **região Sul** apresentou os melhores índices médios de educação.
+
+---
+
+### 🔹 A região com os melhores índices de educação é a mesma que tem os melhores de renda? E o estado?
+Sim, a **região Sul** lidera tanto em **educação quanto em renda média** entre as regiões do país.
+
+No entanto, quando olhamos por estado, o destaque é outro.
+
+---
+
+### 🔹 O melhor estado está dentro da melhor região também?
+Não. O estado com os **melhores índices tanto de renda quanto de educação** é o **Distrito Federal (DF)**, que pertence à **região Centro-Oeste**, e não à região Sul.
+
 
 ## 📈 Visualização
 
